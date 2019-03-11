@@ -1,0 +1,4 @@
+#include "AppInstance.h"
+#include "AppVersion.h"
+#include "WindowManager.h"
+#include "MacroHelper.h"
